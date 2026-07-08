@@ -1,0 +1,14 @@
+¿Qué 2 tareas del backlog harías primero?
+
+* Configurar el flujo en n8n.
+* Configurar las notificaciones en Telegram.
+
+¿Por qué son las más importantes?
+Porque permiten automatizar el proceso y mantener informados a los usuarios de forma rápida.
+
+¿Qué significa para ti que una tarea esté “terminada”?
+Una tarea está terminada cuando:
+
+* Funciona correctamente.
+* Fue probada sin errores.
+* Quedó registrada en Git.
