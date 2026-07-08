@@ -1,0 +1,8 @@
+¿Qué evento activa el flujo?
+Nuevo reporte registrado en el sistema.
+
+¿Qué mensaje se enviaría a Telegram?
+“Nuevo reporte recibido. Revisar el sistema para dar seguimiento.”
+
+¿Qué información no debería enviarse por seguridad?
+No deben enviarse nombres completos, números de documento, contraseñas, direcciones ni otros datos personales sensibles.
