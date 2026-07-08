@@ -1,0 +1,8 @@
+configurar un flujo en n8n
+configurar las notificaciones en telegram
+
+porque permite automatizar el proceso y mantener informados a los usuarios de forma rapida 
+
+funciona correctamente 
+fue aprobada sin errores
+quedó registrada en Git
